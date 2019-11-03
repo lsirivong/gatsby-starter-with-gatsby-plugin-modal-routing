@@ -20,16 +20,16 @@ _Have another more specific idea? You may want to check out our vibrant collecti
 
     Use the Gatsby CLI to create a new site, specifying the default starter.
 
-    ```sh
+    ```shell
     # create a new Gatsby site using the default starter
-    npx gatsby new my-default-starter https://github.com/gatsbyjs/gatsby-starter-default
+    gatsby new my-default-starter https://github.com/gatsbyjs/gatsby-starter-default
     ```
 
 1.  **Start developing.**
 
     Navigate into your new site’s directory and start it up.
 
-    ```sh
+    ```shell
     cd my-default-starter/
     gatsby develop
     ```
@@ -50,6 +50,7 @@ A quick look at the top-level files and directories you'll see in a Gatsby proje
     ├── node_modules
     ├── src
     ├── .gitignore
+    ├── .prettierrc
     ├── gatsby-browser.js
     ├── gatsby-config.js
     ├── gatsby-node.js
