@@ -8,7 +8,7 @@
     "gatsby": "^2.17.6",
     "gatsby-image": "^2.2.30",
     "gatsby-plugin-manifest": "^2.2.25",
-    "gatsby-plugin-modal-routing": "^1.0.0",
+    "gatsby-plugin-modal-routing": "^1.1.0-beta",
     "gatsby-plugin-offline": "^3.0.17",
     "gatsby-plugin-react-helmet": "^3.1.13",
     "gatsby-plugin-sharp": "^2.2.34",

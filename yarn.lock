@@ -5236,10 +5236,10 @@ gatsby-plugin-manifest@^2.2.25:
     semver "^5.7.1"
     sharp "^0.23.2"
 
-gatsby-plugin-modal-routing@^1.0.0:
-  version "1.0.3"
-  resolved "https://registry.yarnpkg.com/gatsby-plugin-modal-routing/-/gatsby-plugin-modal-routing-1.0.3.tgz#9d604983b0161c3beff7ff41295bd1a92611493f"
-  integrity sha512-uTKFGJqKEeDcDR+qgpWVfYNF1EFqgUrjIbHXq7A/zekqLmJ7RY+acq4w9cr7UCsbm1CV67jJJ3yxRQrB5Wv4bg==
+gatsby-plugin-modal-routing@^1.1.0-beta:
+  version "1.1.0-beta"
+  resolved "https://registry.yarnpkg.com/gatsby-plugin-modal-routing/-/gatsby-plugin-modal-routing-1.1.0-beta.tgz#9958af7be66fb10f8c2b7e8acc8d63325ea9c093"
+  integrity sha512-0QTL+vm2yr523TS4GjkVYa+mF0UZcLu8Y5rMSPagKxs2jKSFC1aXnJEqqZ825pPQyuCV+2/OE20syf1W6lcbWg==
   dependencies:
     "@babel/runtime" "^7.0.0"
     lodash "^4.17.11"
